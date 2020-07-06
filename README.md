@@ -1,5 +1,3 @@
-# Java
-my java tasks
 package com.company;
 import java.util.Scanner;
 
